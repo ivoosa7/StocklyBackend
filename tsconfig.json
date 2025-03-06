@@ -6,11 +6,5 @@
       "rootDir": "./src",
       "strict": true,
       "esModuleInterop": true
-    },
-
-    "scripts": {
-      "dev": "nodemon src/server.ts",
-      "build": "tsc",
-      "start": "node dist/server.js"
     }
 }
